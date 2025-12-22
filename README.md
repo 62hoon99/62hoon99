@@ -3,7 +3,8 @@
 백엔드 개발자로서 안정적이고 확장 가능한 시스템을 만드는 데 관심이 많습니다.  
 문제를 구조적으로 이해하고, 더 좋은 설계와 품질을 고민하는 개발자가 되기 위해 매일 성장하고 있습니다.
 
----
+
+
 ## 🚀 Tech Stack
 
 ### 🔧 Languages & Framework
@@ -12,7 +13,7 @@
 ### 🗄️ Database & Persistence
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)  ![MyBatis](https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=airbrake&logoColor=white) 
 
----
+
 
 ## 💼 Career
 
@@ -21,7 +22,7 @@
 | 2024.06 ~ 현재      | [피앤피시큐어](https://pnpsecure.com/) / 보안 솔루션 | Backend Developer | 연구원                                    |
 | 2023.02 ~ 2024.05 | [왈라](https://wala-land.com/ko) / 이커머스     | Backend Developer | 인턴: 23.02 ~ 23.12<br>사원: 24.01 ~ 24.05 |
 
----
+
 
 ## 🌟 대외활동
 
@@ -35,7 +36,7 @@
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기                                     | 2023.03 ~ 2023.12 | 운영진  | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링                                                                                                                                                    |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기                                     | 2022.03 ~ 2022.12 | 부원   | 웹 개발 스터디                                                                                                                                                                           |
 
----
+
 
 ## 🎓 Education
 
@@ -44,4 +45,3 @@
 | 2023.06 ~ 2023.08 | ATDD, 클린 코드 with Spring 7기 | 수료  |
 | 2018.03 ~ 2024.02 | 세종대학교 / 컴퓨터공학과             | 졸업  |
 
----
