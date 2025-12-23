@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kihoon
+# 👋 안녕하세요. 유기훈입니다.
 
 백엔드 개발자로서 안정적이고 확장 가능한 시스템을 만드는 데 관심이 많습니다.  
 문제를 구조적으로 이해하고, 더 좋은 설계와 품질을 고민하는 개발자가 되기 위해 매일 성장하고 있습니다.
@@ -8,7 +8,7 @@
 ## 🚀 Tech Stack
 
 ### 🔧 Languages & Framework
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ### 🗄️ Database & Persistence
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)  ![MyBatis](https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=airbrake&logoColor=white) 
@@ -42,6 +42,6 @@
 
 | 기간                | 기관                         | 내용  |
 | ----------------- | -------------------------- | --- |
-| 2023.06 ~ 2023.08 | ATDD, 클린 코드 with Spring 7기 | 수료  |
+| 2023.06 ~ 2023.08 | [넥스트스텝](https://edu.nextstep.camp/) / ATDD, 클린 코드 with Spring 7기 | 수료  |
 | 2018.03 ~ 2024.02 | 세종대학교 / 컴퓨터공학과             | 졸업  |
 
