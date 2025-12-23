@@ -1,9 +1,14 @@
 # 👋 안녕하세요. 유기훈입니다.
 
-저 소프트웨어 개발 상당히 좋아합니다.
-백엔드 개발자로서 전문가가 되기 위해 부단히 노력하고 있습니다.
+백엔드 개발을 좋아하고, 꾸준히 더 나은 코드를 고민하며 성장하고 있습니다. <br>
+보이스카우트 원칙처럼, 제가 지나간 코드와 시스템이 이전보다 더 나은 상태가 되도록 만드는 것을 목표로 합니다.
 
+<b>Profile & Learning</b> <br>
+[![Study Repo](https://img.shields.io/badge/Study_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/62hoon99/dev-blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youkihoon/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ske06008@gmail.com)
 
+<br>
 
 ## 🚀 Tech Stack
 
@@ -13,7 +18,7 @@
 ### 🗄️ Database & Persistence
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)  ![MyBatis](https://img.shields.io/badge/MyBatis-C70D2C?style=for-the-badge&logo=airbrake&logoColor=white) 
 
-
+<br>
 
 ## 💼 Career
 
@@ -22,7 +27,7 @@
 | 2024.06 ~ 현재      | [피앤피시큐어](https://pnpsecure.com/) / 보안 솔루션 | Backend Developer | 연구원                                    |
 | 2023.02 ~ 2024.05 | [왈라](https://wala-land.com/ko) / 이커머스     | Backend Developer | 인턴: 23.02 ~ 23.12<br>사원: 24.01 ~ 24.05 |
 
-
+<br>
 
 ## 🌟 대외활동
 
@@ -36,7 +41,7 @@
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 11기                                     | 2023.03 ~ 2023.12 | 운영진  | 스터디 자료 및 과제 기획, 코드 리뷰, 프로젝트 멘토링                                                                                                                                                    |
 | 세종대학교 웹 프로그래밍 학술동아리 OpenYearRound 10기                                     | 2022.03 ~ 2022.12 | 부원   | 웹 개발 스터디                                                                                                                                                                           |
 
-
+<br>
 
 ## 🎓 Education
 
