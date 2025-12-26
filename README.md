@@ -10,7 +10,7 @@
 
 <br>
 
-## 🚀 Tech Stack
+## 🚀 기술 스택
 
 ### 🔧 Languages & Framework
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -20,7 +20,7 @@
 
 <br>
 
-## 💼 Career
+## 💼 경력
 
 | 기간                | 회사 / 도메인                                  | 직무                | 직급                                     |
 | ----------------- | ----------------------------------------- | ----------------- | -------------------------------------- |
@@ -43,7 +43,7 @@
 
 <br>
 
-## 🎓 Education
+## 🎓 교육
 
 | 기간                | 기관                         | 내용  |
 | ----------------- | -------------------------- | --- |
