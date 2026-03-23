@@ -33,6 +33,7 @@
 
 | 활동명                                                                       | 기간                | 역할   | 활동 내용                                                                                                                                                                              |
 | ----------------------------------------- | ---------------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [Real MySQL 1권 스터디](https://github.com/JAVACAFE-STUDY/2026-real-mysql-1) | 2026.03 ~ 2026.06 | 스터디장 | [Real MySQL 1권](https://www.yes24.com/product/goods/103415627) 학습 및 내용 정리 |
 | [오픈 소스 기여 모임 10기](https://github.com/opensource-contributors-group) | 2026.01 ~ 2026.02 | 멤버 | [오픈 소스 기여 활동](https://github.com/62hoon99/dev-blog/tree/main/Open%20Source) |
 | [대규모 시스템 설계 스터디](https://github.com/Large-Scale-System-Design/Large-Scale-System-Design)                                                         | 2025.09 ~ 2026.02      | 스터디원 | [가상 면접 사례로 배우는 대규모 시스템 설계](https://www.yes24.com/product/goods/102819435) 완독 및 내용 정리와 실습                                                                                           |
 | [이펙티브 자바 스터디](https://github.com/JAVACAFE-STUDY/2024-effective-java)      | 2024.09 ~ 2024.12 | 스터디원 | [이펙티브 자바](https://www.yes24.com/product/goods/65551284) 완독 및 내용 정리                                                                                                                 |
